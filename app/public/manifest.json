@@ -1,0 +1,9 @@
+{
+  "name": "Inner",
+  "short_name": "Inner",
+  "description": "Private-first mental operating system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#38bdf8"
+}
